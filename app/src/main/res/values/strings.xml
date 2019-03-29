@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRCode!</string>
+    <string name="action_settings">Settings</string>
+    <string name="process_title">Read QRCode!</string>
+    <string name="process_result">...</string>
+    <string name="camera_capture_title">QR Code Capture</string>
+</resources>
